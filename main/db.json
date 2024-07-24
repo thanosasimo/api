@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Yodezeen",
+    "activities": [
+      {
+        "id": 1,
+        "title": "Architecture"
+      },
+      {
+        "id": 2,
+        "title": "Interior Design"
+      }
+    ],
+    "countries": [
+      {
+        "id": 1,
+        "title": "Ukraine"
+      },
+      {
+        "id": 2,
+        "title": "Poland"
+      },
+      {
+        "id": 3,
+        "title": "United Kingdom",
+      },
+      {
+        "id": 4,
+        "title": "United States",
+      }
+    ],
+    "cities": [
+      "Kiev",
+      "Warsow",
+      "London",
+      "Los Angeles",
+      "Miami"
+    ],
+    "email": "info@yodezeen.com",
+    "phones": [
+      "+19174000230",
+      "+380680000670",
+      "+13052131321"
+    ],
+    "website": "yodezeen.com"
+  }
+]
